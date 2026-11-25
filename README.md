@@ -10,6 +10,20 @@ Compatibility fixes for the original PC release of **CSI: Miami**, available in 
 | [Fit](https://github.com/Tiger-Fury/CSI-Miami-AiO-Fix/releases/download/v1.0.0/CSI-Miami-Fit-v1.0.0.zip) | Scales to the desktop while preserving 4:3 proportions, with borders where needed. |
 | [Fill](https://github.com/Tiger-Fury/CSI-Miami-AiO-Fix/releases/download/v1.0.0/CSI-Miami-Fill-v1.0.0.zip) | Stretches the complete picture across the desktop without cropping the interface. |
 
+## Screenshots
+
+### Fit
+
+Preserves the original 4:3 proportions with borders.
+
+![CSI: Miami running in Fit mode](assets/screenshots/csi-miami-fit.png)
+
+### Fill
+
+Stretches the complete picture across the desktop.
+
+![CSI: Miami running in Fill mode](assets/screenshots/csi-miami-fill.png)
+
 ## Fixes
 
 - Loads case content from the full local installation without repeated CD checks. Paths follow the installation folder; no drive letter is hard-coded.
