@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "credit": "Made by Tiger Fury",
+  "validation": "User reported all three Miami presentations working; static build and decompiler checks passed",
+  "originalExeSha256": "9c97123dcdd26314c226e53df58ee0d1b48702b3ceb7b984e036a902c1410d77",
+  "sharedLibrarySha256": "8f3e27f85046c54031dd2c8b79decc0399079b9a771d370b1b23fd6db78ec788",
+  "sharedRendererSha256": "ff9256ebecd89899e1069e28db63f45669a9a6b8578185a487ab5126246beaa4"
+}

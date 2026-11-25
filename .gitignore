@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+/build/
+/dist/
+*.exe
+*.dll
+*.x32
+*.cxt
+*.cct
+*.zip
